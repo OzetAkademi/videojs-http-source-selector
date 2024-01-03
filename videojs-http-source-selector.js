@@ -2,8 +2,9 @@
  * videojs-contrib-quality-levels
  * Original source https://github.com/jfujita/videojs-http-source-selector 1.1.6 by jfujita
  * rewritten to work with videojs ^8.0
- * @author Cemal Gültekin https://github.com/csgultekin
- * for Ozet Akademi https://github.com/OzetAkademi
+ * @author https://github.com/csgultekin
+ * for Ozet Akademi
+ * @link https://github.com/OzetAkademi/videojs-http-source-selector
  * @version 1.1.7
  * @license Apache-2.0
  */
